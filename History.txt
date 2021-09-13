@@ -1,0 +1,40 @@
+                                    Unics (PDP7)
+                                         |
+                                         |
+                                        Unix
+                                         |
+                                      +--+------+
+                                      |         |  <----- GNU
+                                      |         |         
+                                     BSD        |
+                                      |         |
+                                      |        Linux
+                                    freeBSD     |
+                                      |         |
+=========================================================================================== Gui
+         X11                                            Wayland        (servidores grafico)
+=========================================================================================== DE
+(Gimp Tool Kit)                     (XForms)                (Qt)                    [Xt]
+     | GTK                             |                     |
+     |                                 |                     |
+     |                                 |                     |
+     +-------------+                   |                     +----------------+-----------+
+     |             |                   |                     |                |           |
+(GNU Network     (Lightweight         (XForms Common       (K Desktop         |           |
+Object Model      X11 Desktop          Environment)        Environment)     Razor-qt      |
+Environment)      Environment)             XFCE             KDE                |         DDE 
+    GNOME            LXDE                   |                |                 |
+     |                 |                  (GTK)              |                 |   
+     |             (Morreu)                 |                |             (Morreu)
+     |                    \                 |                |                 |
+U    +-------+-------+     +-----+----------|----------------|----------------+
+n    |       |       |           |          |                |
+i    |       |       |           |          |                |
+t    |       |       |         LxQt        XFCE             KDE
+y   GNOME   MATE  Cinnamon
+================================================================================ Distro
+  [Ubuntu]     [Mint]        [Lubuntu]   [Xubuntu]         [Kurumin]       [Deepin]
+ [Ubuntu                                                   [Kubuntu]
+    Gnome]
+ [Fedora]
+ 
